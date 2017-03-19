@@ -4,7 +4,7 @@ I'm FourOhFour, a programmer and computer science enthusiast from the United Kin
 ### Current Projects
 I have recently been working on **[richter](https://github.com/fourohfour/richter)** - a command-line client for the Show My Homework web application written in   the systems programming language Rust.  
 
-I am also working on [RIPL](https://github.com/fourohfour/RIPL) - An experimental imperative programming language designed to be compilable into multiple [esoteric languages](https://esolangs.org/wiki/Main_Page).
+I am also working on **[RIPL](https://github.com/fourohfour/RIPL)** - An experimental imperative programming language designed to be compilable into multiple [esoteric languages](https://esolangs.org/wiki/Main_Page).
           
 ### Interests
 
