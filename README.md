@@ -1,2 +1,2 @@
 # fourohfour.github.io
-FourOhFour Developer Homepage
+Homepage of FourOhFour
