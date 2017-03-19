@@ -25,5 +25,5 @@ Of the following, an email is the best way to get in contact with me. The others
 * Twitter - [@\_FourOhFour_](https://twitter.com/_FourOhFour_)
 * Reddit - [\_FourOhFour_](https://reddit.com/u/_FourOhFour_)
 * StackOverflow - [FourOhFour](https://stackoverflow.com/users/5731336)
-* dev.bukkit.org -[FourOhFourPageNotFound](http://dev.bukkit.org/profiles/fourohfourpagenotfound)
+* dev.bukkit.org -[FourOhFourPageNotFound](https://dev.bukkit.org/members/FourOhFourPageNotFound)
 * Email - 404.FourOhFour@gmail.com
