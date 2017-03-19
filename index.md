@@ -22,8 +22,8 @@ I have a long term love for motorsports in all its guises. I currently follow se
 Of the following, an email is the best way to get in contact with me. The others may well be checked VERY infrequently.
 
 * Github - [FourOhFour](https://github.com/fourohfour)
-* Twitter - [@_FourOhFour_](https://twitter.com/_FourOhFour_)
-* Reddit - [_FourOhFour_](https://reddit.com/u/_FourOhFour_)
+* Twitter - [@\_FourOhFour_](https://twitter.com/_FourOhFour_)
+* Reddit - [\_FourOhFour_](https://reddit.com/u/_FourOhFour_)
 * StackOverflow - [FourOhFour](https://stackoverflow.com/users/5731336)
 * dev.bukkit.org -[FourOhFourPageNotFound](http://dev.bukkit.org/profiles/fourohfourpagenotfound)
 * Email - 404.FourOhFour@gmail.com
